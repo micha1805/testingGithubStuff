@@ -1,2 +1,2 @@
-let a = "AAAAAAA"
+let a = "BBBBBBB"
 let b = "tutututu"
